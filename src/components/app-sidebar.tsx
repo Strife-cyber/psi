@@ -26,11 +26,11 @@ export function AppSidebar() {
             href: '/passwords',
             icon: Key
         },
-        {
+        /*{
             title: "Generator",
             href: '/generator',
             icon: Grid3X3
-        },
+        },*/
         {
             title: "Vault",
             href: '/vault',
